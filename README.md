@@ -1,2 +1,2 @@
-# python
-python code
+# python for pytest
+python code for pytest
